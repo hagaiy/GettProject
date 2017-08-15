@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GettProject</string>
+    <string name="google_maps_key">AIzaSyCwKF6jcrEP2qnuu7wvmJP0yfB_X8oKyio</string>
+    <string name="seeking_location">seeking your location</string>
+    <string name="premissions_request">These permissions are mandatory for the application. Please allow access, or exit</string>
+    <string name="no_matches_found">No matches found near you</string>
+    <string name="find_places_near_by">Find places near by</string>
+    <string name="locate_me">Locate me</string>
+</resources>
